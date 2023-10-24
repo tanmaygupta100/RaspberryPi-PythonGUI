@@ -121,8 +121,8 @@ root.mainloop()
 '''
 SAMPLE OUTPUT:
 ____________________________________
-Your country: Canada
-Your email: tqg5283@psu.edu
+Your country: USA
+Your email: ***@gmail.com
 Your recommendation: Would recommend
 Your rating: Satisfied
 ____________________________________
